@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hab3r</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="haber1">Kurlarda seçim sonrası başlayan yükseliş bugün de devam ediyor. Dolar/TL 23,40, Euro/TL ise 25.70nin üzerine çıkarak ile yeni tarihi zirvelerini gördü. 28 Mayıstaki Cumhurbaşkanlığı 2. tur seçimlerinden önce dolar 19.96 seviyesindeydi. Bugünkü yükselişle beraber seçim sonrasında dolar/TLde yüzde 17.2lik yükseliş yaşanmış oldu.</string>
+    <string name="haber2"></string>
+    <string name="haber3"></string>
+    <string name="haber4"></string>
+    <string name="haber5"></string>
+    <string name="haber6"></string>
+    <string name="haber7"></string>
+    <string name="haber8"></string>
+</resources>
